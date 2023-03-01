@@ -1,4 +1,5 @@
-## Olá! Eu sou o Maurício 😶‍🌫️
+## Olá! Eu sou o Maurício <img aling="left" alt="morcego-mauricio"  height="30" width="40" src="https://i.pinimg.com/originals/8d/d1/76/8dd176c04a07c37b80a640dbc73382ff.gif">
+
 
  Olá! Meu nome é Mauricio, tenho 18 anos e atualmente sou um desenvolvedor júnior apaixonado por tecnologia. Possuo conhecimentos em diversas linguagens de programação, incluindo Python, HTML, CSS, Java e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e aprender novas tecnologias. Além disso, sou uma pessoa comprometida, organizada e disposta a trabalhar em equipe para alcançar os objetivos propostos. Se você está procurando um desenvolvedor com vontade de aprender e crescer, pode contar comigo!
 
