@@ -2,7 +2,7 @@
 
  Olá, meu nome é Mauricio, tenho 18 anos e sou um desenvolvedor Junior. Minhas principais habilidades incluem programação em Python, HTML, CSS, Java e Javascript. Sou apaixonado por tecnologia e sempre procuro aprimorar minhas habilidades e conhecimentos em programação.Tenho explorado diferentes áreas, desde a criação de sites até a desenvolvimento de softwares. Sou uma pessoa muito curiosa e adoro experimentar novas tecnologias e frameworks.
 
-Além da minha paixão por programação, gosto muito de trabalhar em equipe e colaborar em projetos open source. Acredito que a troca de conhecimentos é fundamental para crescermos juntos e construirmos um mundo melhor.
+Além da minha paixão por programação, gosto muito de trabalhar em equipe. Acredito que a troca de conhecimentos é fundamental para crescermos juntos e construirmos um mundo melhor.
 
 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está procurando um desenvolvedor entusiasmado e comprometido, não hesite em entrar em contato comigo!
 
