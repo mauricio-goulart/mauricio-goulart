@@ -5,7 +5,7 @@
 <div>
     
 <a href="https://github.com/mauricio-goulart">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=true&theme=dark"/>
   
 
 
