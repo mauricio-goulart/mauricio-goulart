@@ -5,6 +5,12 @@
 
 - 🌱 Estudando Pyhton, Java, Html , Css, Typescript
 
+
+
+
+
+
+
 <div> 
     <a href="https://github.com/mauricio-goulart">
     <img src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=true&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=10" />
