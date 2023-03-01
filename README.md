@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Maurício 😶‍🌫️
 
- Olá, meu nome é Mauricio, tenho 18 anos e sou um desenvolvedor Junior. Minhas principais habilidades incluem programação em Python, HTML, CSS, Java e Javascript. Sou apaixonado por tecnologia e sempre procuro aprimorar minhas habilidades e conhecimentos em programação.Tenho explorado diferentes áreas, desde a criação de sites até a desenvolvimento de softwares. Sou uma pessoa muito curiosa e adoro experimentar novas tecnologias e frameworks.
+ Olá, meu nome é Mauricio, tenho 18 anos e sou um desenvolvedor Junior. Minhas principais habilidades incluem programação em Python, HTML, CSS, Java e Javascript. Sou apaixonado por tecnologia e sempre procuro aprimorar minhas habilidades e conhecimentos em programação.Tenho explorado diferentes áreas, desde a criação de sites até desenvolvimento de softwares. Sou uma pessoa muito curiosa e adoro experimentar novas tecnologias e frameworks.
 
 Além da minha paixão por programação, gosto muito de trabalhar em equipe. Acredito que a troca de conhecimentos é fundamental para crescermos juntos e construirmos um mundo melhor.
 
