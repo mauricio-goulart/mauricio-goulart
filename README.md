@@ -5,8 +5,8 @@
 <div>
     
 <a href="https://github.com/mauricio-goulart">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&show_icons=true&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=0000ff&border_color=0000ff&bg_color=151515"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-goulart&langs_count=10&title_color=00ff00&text_color=ffffff&icon_color=0000ff&border_color=0000ff&bg_color=151515"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart"/>
+  
 
 
 </div>
