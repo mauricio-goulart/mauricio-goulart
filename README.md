@@ -3,7 +3,7 @@
  Olá! Meu nome é Mauricio, tenho 18 anos e atualmente sou um desenvolvedor júnior apaixonado por tecnologia. Possuo conhecimentos em diversas linguagens de programação, incluindo Python, HTML, CSS, Java e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e aprender novas tecnologias. Além disso, sou uma pessoa comprometida, organizada e disposta a trabalhar em equipe para alcançar os objetivos propostos. Se você está procurando um desenvolvedor com vontade de aprender e crescer, pode contar comigo!
 
 
-### 🌱 O que estou estudando
+## 🌱 O que estou estudando
 <p align="left">  </a> </a> 
 
 &nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
