@@ -34,11 +34,11 @@
 
 <div> 
     <a href="https://github.com/mauricio-goulart">
-    <img height="196" src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=true&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=10" />
+    <img height="196" src="https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=false&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=10" />
 <!---
     Darkmode = https://github-readme-stats.vercel.app/api?username=mauricio-goulart&coun_private=true&show_icons=true&theme=dark&border_radius=10
 -->
-    <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-goulart&layout=compact&langs_count=10&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=10">
+    <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-goulart&layout=compact&langs_count=10&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=9">
 
 </div>
 
